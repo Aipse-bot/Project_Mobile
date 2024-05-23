@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Project_Mobile</string>
+    <string name="CD">Content Description</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Name">Name</string>
+    <string name="Categories">Categories</string>
+    <string name="SeeAll">See All</string>
+    <string name="BestSellerProduct">Best Seller Product</string>
+    <string name="CTGBTN1">category 1</string>
+    <string name="CTGBTN2">category 2</string>
+    <string name="CTGBTN3">category 3</string>
+    <string name="CTGBTN4">category 4</string>
+
+
+    <string name="set_password">SET PASSWORD</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="email">Email</string>
+    <string name="password">PASSWORD</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">DON\'T HAVE AN ACCOUNT?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enteryourname">Enter your Name</string>
+    <string name="validemail">Enter a valid email address</string>
+    <string name="validpassword">Between 6 and 12 alphanumeric characters</string>
+    <string name="privacypolicy">Privacy policy and terms of service</string>
+
+    <string name="privacypolicyterms">
+
+        <b>FREE</b> \nEach download allows the buyer to use the product for personal use only. You’ll need to purchase a commercial license if you’re not willing to make the modified version public. \n\n
+
+        <b>SINGLE</b> \nEach purchase allows the buyer to use the product, for one project and for commercial use but end users cannot be charged for. This license allows you to keep your project private and use it in only one project.\n\n
+
+        <b>EXTENDED</b> \nEach purchase allows the buyer to use the product, for an unlimited amount of projects, for commercial use, within the same company.\n\n
+
+    </string>
+    <string name="OK">i agree to the terms and conditions</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="by_using_the_site_you_agree_to_our">By using the ui/ux you agree to our</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_notification">Notification</string>
+    <string name="menu_message">Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="version_app">version 1.1</string>
+    <string name="recommended">Recommended</string>
+    <string name="more">More</string>
+    <string name="dry_cleaning">Dry Cleaning</string>
+    <string name="wash_and_iron"><![CDATA[Wash & Iron]]></string>
+    <string name="ironing">Ironing</string>
+    <string name="choose_services">Choose Services</string>
+    <string name="discover">Discover</string>
+    <string name="LaundryService">Laundry Services</string>
+
+    <string name="shop1"> 252 Pod Laundry Shop </string>
+    <string name="shop2"> Wash And Fold </string>
+    <string name="shop3"> Clean Laundry Shop </string>
+
+</resources>

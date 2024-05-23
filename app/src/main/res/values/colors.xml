@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_Dark">#521C98</color>
+    <color name="purple_light">#A421D2</color>
+    <color name="grey">#E9E9E9</color>
+    <color name="colorPrimary">#5e6575</color>
+    <color name="colorPrimaryDark">#211b27</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="textcolor">#aeadb3</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="light_sea_green">#31cb95</color>
+    <color name="white_smoke">#eff0f0</color>
+    <color name="silver">#c8c8c8</color>
+    <color name="orange">#f7991b</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="dark_late_gray">#2b3e50</color>
+    <color name="drawer_item_color">#FF000000</color>
+</resources>
